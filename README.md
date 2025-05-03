@@ -13,6 +13,7 @@ A simple, terminal-based **banking system simulator** built in **Java**. This pr
 
 ## Project Structure
 
+```plaintext
 BankingSimulator/
 ├── Account.java            # Class defining Account model and operations
 ├── Bank.java               # Core business logic for account management
