@@ -17,7 +17,7 @@ A simple, terminal-based **banking system simulator** built in **Java**. This pr
 BankingSimulator/
 ├── Account.java            # Class defining Account model and operations
 ├── Bank.java               # Core business logic for account management
-├── Main.java               # Entry point for application logic and user interface
+├── BankingApp.java         # Entry point for application logic and user interface
 ├── accounts.csv            # File-based storage for account information (CSV format)
 ├── txn_xyz.txt             # Holds the transaction history of a particular account
 └── README.md               # Project documentation
